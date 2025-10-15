@@ -1,1 +1,2 @@
 # Detecting-Online-Radicalization-and-Hate-Speech-Communities
+Social media has become a major platform for communication but is increasingly misused to spread hate speech and extremist ideologies. Detecting such online radicalization is essential to ensure safe digital spaces. This study uses Natural Language Processing (NLP) to identify hate content and Social Network Analysis (SNA) to detect and visualize radicalized communities, helping understand how harmful content spreads across online networks
